@@ -1,5 +1,5 @@
 ## Структура проекта:
-
+```
 ├── datasets/             <- Папка с входными данными (CSV файлами)
 │   ├── it_services_dataset_diverse_100.csv
 │   ├── it_services_dataset_diverse_8100.csv
@@ -17,3 +17,4 @@
 ├── Doxyfile              <- Файл конфигурации Doxygen
 ├── README.md             <- Описание проекта
 └── viz.ipynb             <- Графики и вывод
+```
