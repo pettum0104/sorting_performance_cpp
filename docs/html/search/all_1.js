@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['duration_0',['duration',['../struct_service.html#a001abaecc2ecdcd962f5687a025f81da',1,'Service']]]
+  ['cost_0',['cost',['../struct_service.html#a2ce3309e0dff48b5fe242512df62784b',1,'Service']]]
 ];
